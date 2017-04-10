@@ -4,5 +4,5 @@
 <End of Version>
 
 <Version: 1.03>
-/img/pictures/squirtle.png http://cdn.bulbagarden.net/upload/thumb/3/39/007Squirtle.png/250px-007Squirtle.png
+/img/enemies/squirtle.png http://cdn.bulbagarden.net/upload/thumb/3/39/007Squirtle.png/250px-007Squirtle.png
 <End of Version>
