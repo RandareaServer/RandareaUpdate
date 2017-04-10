@@ -12,5 +12,5 @@
 <End of Version>
 
 <Version: 1.05>
-/img/enemies/squirtle.png https://upload.wikimedia.org/wikipedia/en/3/3f/Donkey_Kong_NES_Screenshot.png
+/img/enemies/dk.png https://upload.wikimedia.org/wikipedia/en/3/3f/Donkey_Kong_NES_Screenshot.png
 <End of Version>
